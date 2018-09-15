@@ -70,12 +70,9 @@ Array
 		last synchronization.
 
 
-## Author
+## Co-Author
 
-Bharat Parmar
+Akram Abbasi
 
-Ahmedabad, India.
-
-Mobile : +91 9687766553
-Email : bharatparmar383@gmail.com
+Karachi, Pakistan.
 
